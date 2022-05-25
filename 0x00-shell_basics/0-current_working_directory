@@ -1,4 +1,2 @@
 #!/bin/bash
-#prints the current working directory of this program
 echo "root@c6117944c432:/alx-system_engineering-devops"
-
